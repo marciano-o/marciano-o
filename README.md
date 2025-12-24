@@ -43,17 +43,7 @@ I'm currently diving deep into the world of **machine learning models** and **da
 Let's connect and create something amazing! 💡
 
 ---
-<!--
-## 📊 My Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🏠 [House Price Predictor](link) | Regression model predicting real estate values | Scikit-Learn, Pandas |
-| 🎬 [Movie Recommender System](link) | Content-based filtering using NLP | TensorFlow, NumPy |
-| 📈 [Stock Market Analysis](link) | Time series forecasting with LSTM | PyTorch, Pandas |
-
----
--->
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
@@ -69,11 +59,7 @@ Let's connect and create something amazing! 💡
 
 ---
 
-## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=marciano-o&show_icons=true&theme=react)
-
----
 
 ### Fun Fact About Me
 
