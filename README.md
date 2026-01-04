@@ -25,8 +25,6 @@ I'm currently diving deep into the world of **machine learning models** and **da
 
 - **ML Algorithms** - Ensemble methods, deep learning architectures
 - **MLOps** - Model deployment, monitoring, and lifecycle management
-- **Data Engineering** - Building robust data pipelines
-- **Cloud Platforms** - AWS/GCP for scalable ML solutions
 
 ---
 
